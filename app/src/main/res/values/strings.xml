@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_games">Games</string>
+    <string name="title_data">Data</string>
+    <string name="title_settings">Settings</string>
+</resources>
